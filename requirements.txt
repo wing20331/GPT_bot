@@ -1,0 +1,9 @@
+telebot
+openai
+urllib.request
+io
+speech_recognition as sr
+AudioSegment
+tempfile
+os
+gTTS
